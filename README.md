@@ -1,7 +1,7 @@
 
 # Página de Produto E-commerce com React e Tailwind CSS
 
-[👉 Veja o projeto online aqui](https://seu-dominio-ou-link-de-hospedagem.com)
+[👉 Veja o projeto online aqui](https://page-ecommerce-test.vercel.app/)
 
 ## Descrição
 
@@ -18,8 +18,10 @@ O estado das seleções do usuário (cor, tamanho, imagem principal, CEP e ender
 - Interface responsiva com Tailwind CSS
 - Acessibilidade web (WCAG) implementada: navegação por teclado, labels, roles ARIA, foco visível e mensagens dinâmicas para leitores de tela
 
-![Descrição da imagem](src/assets/img_Phone.png)
-![Descrição da imagem](src/assets/img_PC.png)
+<div style="text-align: center;">
+  <img src="src/assets/img_Phone.png" alt="Descrição da imagem" style="margin-right: 20px; vertical-align: middle;" />
+  <img src="src/assets/img_PC.png" alt="Descrição da imagem" style="vertical-align: middle;" />
+</div>
 
 ## Como usar
 
