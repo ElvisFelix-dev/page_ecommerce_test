@@ -109,16 +109,6 @@ O projeto foi desenvolvido seguindo as melhores práticas para acessibilidade, i
 
 ---
 
-## Melhorias futuras
-
-- Implementar mais variantes do produto (ex: diferentes modelos)
-- Adicionar mensagens de erro mais detalhadas
-- Integrar carrinho de compras e checkout
-- Implementar testes automatizados (Jest, React Testing Library)
-- Otimizar desempenho de imagens e lazy loading
-
----
-
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
