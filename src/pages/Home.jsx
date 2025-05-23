@@ -172,7 +172,7 @@ export default function App() {
               </label>
               <input
                 id="cep"
-                type="number"
+                type="text"
                 value={cep}
                 required
                 onChange={(e) =>
