@@ -179,7 +179,7 @@ export default function App() {
                   setCep(e.target.value.replace(/\D/g, "").slice(0, 8))
                 }
                 placeholder="Digite seu CEP"
-                className="border p-2 rounded w-40 focus:outline-none focus:ring-2 focus:ring-green-500"
+                className="text-black border p-2 rounded w-40 focus:outline-none focus:ring-2 focus:ring-green-500"
                 aria-describedby="cepHelp"
               />
               <button
