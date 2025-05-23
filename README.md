@@ -35,13 +35,13 @@ O estado das seleções do usuário (cor, tamanho, imagem principal, CEP e ender
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/ElvisFelix-dev/page_ecommerce_test
 ```
 
 2. Entre na pasta do projeto:
 
 ```bash
-cd nome-do-repositorio
+cd page_ecommerce_test
 ```
 
 3. Instale as dependências:
@@ -63,7 +63,7 @@ yarn start
 5. Acesse a aplicação no navegador:
 
 ```
-http://localhost:3000
+http://localhost:5173
 ```
 
 ---
